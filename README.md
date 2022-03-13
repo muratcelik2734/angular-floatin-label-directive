@@ -6,6 +6,6 @@ Angular framework için hazırladığım bu directive projenize dahil edip Html 
 
 
 
-## Çalışşır haldeki görüntüsü
+## Çalışır haldeki görüntüsü
 
 ![alt text](floating.PNG)
