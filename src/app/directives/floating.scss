@@ -1,0 +1,40 @@
+
+ .w-100{
+     display: block;
+     width: 100%;
+ }
+
+ .d-none{
+     display: none;
+ }
+ .d-block{
+     display: block;
+ }
+
+ .floatingLabel{
+    position: absolute;
+    bottom: 1rem;
+    left: 4px;
+    background: white;
+    transition: all .5s ease-in-out;
+    font-size: 0.8rem;
+ }
+
+ .inputForcus::-webkit-input-placeholder { /* Edge */
+   color: transparent;
+
+  }
+  
+  .inputForcus:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: transparent;
+
+  }
+  
+  .inputForcus::placeholder {
+   color: transparent;
+
+  }
+
+  .psRelative{
+    position: relative;
+  }
